@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="txt_boton_siguiente">Siguiente</string>
+    <string name="txt_boton_editar_datos">Editar Datos</string>
+    <string name="onCreate">Creando Activity</string>
+    <string name="onStart">Iniciando Activity</string>
+    <string name="onResume">Reanudando Activity</string>
+    <string name="onReStart">Reiniciando Activity</string>
+    <string name="onPausa">Pausando Activity</string>
+    <string name="onStop">Deteniendo Activity</string>
+    <string name="onDestroy">Destruyendo Activity</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+</resources>
